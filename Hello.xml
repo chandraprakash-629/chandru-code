@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 <smartphone>
 	<brand>Redmi</brand>
 	<price>20000</price>
 	<model>poco</model>
 </smartphone>
+=======
+<customer>
+	<name>chandraprakash</name>
+	<age>22</age>
+</customer>
+>>>>>>> Gitwork
